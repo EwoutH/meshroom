@@ -12,8 +12,8 @@ Meshroom is licensed under the [MPL2 license](LICENSE-MPL2.md).
 
  * __Python__  
    [https://www.python.org](https://www.python.org)  
-   Copyright (c) 2001-2018 Python Software Foundation  
-   Distributed under the [PSFL V2 license](https://www.python.org/download/releases/2.7/license/).
+   Copyright (c) 2001-2021 Python Software Foundation  
+   Distributed under the [PSF License](https://docs.python.org/3/license.html#psf-license-agreement-for-python-release).
 
  * __Qt/PySide2__  
    [https://www.qt.io](https://www.qt.io)  
